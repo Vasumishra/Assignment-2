@@ -1,0 +1,46 @@
+article {
+  display: block;
+}
+.wrap {
+  border: solid 5px black;
+}
+.shipping {
+  color: rgb(80, 74, 74);
+}
+
+h1 {
+  text-align: center;
+  font-size: 22px;
+  text-transform: uppercase;
+  background-color: grey;
+}
+p {
+  font-weight: bold;
+}
+
+a:link {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #db3636;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.btn {
+  color: cornsilk;
+  background-color: black;
+  border: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.btn:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid gray;
+}
